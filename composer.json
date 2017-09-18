@@ -1,0 +1,22 @@
+{
+    "name": "aaronmusicchina/composerdemo01",
+    "description": "a test project",
+    "type": "project",
+    "require": {
+        "cakephp/cakephp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aaron",
+            "email": "boysmusic@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
